@@ -3,7 +3,7 @@ const { REST } = require("@discordjs/rest");
 const { Routes } = require("discord-api-types/v9");
 
 const token =
-    "MTE5NzAwMjAwMDEzNTYxODY2MA.GeR5I0.0IVJdog7mHS5vFsmOiP_124qR6C8GCxeQXb8CY";
+    "token";
 const clientId = "1197002000135618660";
 const guildId = "1195618199744557106";
 
