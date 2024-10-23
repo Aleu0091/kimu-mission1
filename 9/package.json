@@ -1,0 +1,17 @@
+{
+	"dependencies": {
+		"@discordjs/rest": "^2.2.0",
+		"@types/node": "^20.11.5",
+		"better-sqlite3": "^9.3.0",
+		"discord-api-types": "^0.37.67",
+		"discord.js": "^14.14.1",
+		"node-schedule": "^2.1.1",
+		"sqlite": "^5.1.1",
+		"sqlite3": "^5.1.7",
+		"ts-node": "^10.9.2",
+		"typescript": "^5.3.3"
+	},
+	"devDependencies": {
+		"@types/node-schedule": "^2.1.5"
+	}
+}
